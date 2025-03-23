@@ -15,7 +15,7 @@ A service built on the DAIN Protocol that provides medication information for va
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Add your Brave API key in the source code
-4. Run with `npm start`
+4. Run with `npm run dev`
 
 ## Usage
 
